@@ -29,13 +29,13 @@ This project analyzes retail sales, orders, returns, and profitability trends us
 
 •	Various visualizations were created to analyze:
 
-•	Sales trends (Year-wise, Region-wise)
+         • Sales trends (Year-wise, Region-wise)
 
-•	Profit & Orders by Product Category
+         • Profit & Orders by Product Category
 
-•	Return reasons & manufacturers with high returns
+         • Return reasons & manufacturers with high returns
 
-•	Shipping mode impact
+         • Shipping mode impact
 
 ## Key Insights:
 •	Return Trends: "Incorrect Product Ordered" is the leading return reason.
